@@ -1,4 +1,6 @@
 # 🛡️ Cybersecurity Homelab Project
+![Windows](https://img.shields.io/badge/Windows-Server_2025-blue?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-Client-orange?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-Pentesting-blue?style=for-the-badge&logo=kali-linux&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-Firewall-blue?style=for-the-badge&logo=pfsense&logoColor=white) ![Security Onion](https://img.shields.io/badge/Security_Onion-NIDS-blue?style=for-the-badge&logo=security-onion&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-SIEM-green?style=for-the-badge&logo=splunk&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability_Scanner-blue?style=for-the-badge&logo=nessus&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-Remote_Access-orange?style=for-the-badge&logo=openvpn&logoColor=white)
+
 
 ![Homelab](https://upload.wikimedia.org/wikipedia/commons/6/66/Network_Diagram.png)
 
