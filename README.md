@@ -3,7 +3,7 @@
 
 
 
-![Homelab](https://upload.wikimedia.org/wikipedia/commons/6/66/Network_Diagram.png)
+![Homelab](Sreenshots/homelab.png)
 
 ## 🚀 Project Overview
 
