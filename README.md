@@ -2,8 +2,7 @@
 
 
 
-
-![Homelab](Sreenshots/homelab.png)
+(Sreenshots/homelab.png)
 
 ## 🚀 Project Overview
 
