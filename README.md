@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Homelab Project
 
-![Windows](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Windows_logo_2021.svg/200px-Windows_logo_2021.svg.png)
+
 
 
 ![Homelab](https://upload.wikimedia.org/wikipedia/commons/6/66/Network_Diagram.png)
@@ -25,26 +25,29 @@ This project focuses on the development of a cybersecurity homelab by integratin
 ---
 ## 🔧 Performed Tasks
 
-✅ **Active Directory (AD) Setup** 🖥️  
-✅ **Windows Server 2025 Configuration** ⚙️  
-✅ **DNS & DHCP Server Setup** 🌍  
-✅ **pfSense Firewall Configuration** 🔥  
-✅ **Security Onion (SIEM) Monitoring** 📊  
-✅ **Wazuh Deployment for Log Analysis** 🛡️  
-✅ **Kali Linux for Penetration Testing** 🕵️  
-✅ **Vulnerability Scanning with Nessus** 🔍  
-✅ **OpenVPN Setup for Secure Remote Access** 🔑  
-✅ **Exploring Threat Actor Behavior** 🎭  
+- **Active Directory (AD) Setup** 🖥️  
+- **Windows Server 2025 Configuration** ⚙️  
+- **DNS & DHCP Server Setup** 🌍  
+- **pfSense Firewall Configuration** 🔥  
+- **Security Onion (SIEM) Monitoring** 📊  
+- **Wazuh Deployment for Log Analysis** 🛡️  
+- **Kali Linux for Penetration Testing** 🕵️  
+- **Vulnerability Scanning with Nessus** 🔍  
+- **OpenVPN Setup for Secure Remote Access** 🔑  
+- **Exploring Threat Actor Behavior** 🎭  
 
 
 ---
-## 🎓 Learning Outcomes
+## 🧠 Upon completion, this project will allow you to test and apply key skills relevant to the industry, including:
 
-📌 **Security auditing and log analysis** 🔎  
-📌 **Understanding of Active Directory security** 🏢  
-📌 **Firewall and network security management** 🔥  
-📌 **Exploring SIEM & intrusion detection** 🛡️  
-📌 **Hands-on penetration testing & exploitation** 💻  
+- **Security auditing and log analysis** 🔎  
+- **Firewall and network security management** 🔥 
+- **Understanding of network protocols (TCP/IP, DHCP, DNS)**
+- **Management of different operating systems (Linux, Windows, Unix & macOS)**
+- **Problem-solving**
+- **Proficiency with virtualization software (VMWare, VirtualBox)**
+- **Exploring SIEM & intrusion detection** 🛡️  
+- **Hands-on penetration testing & exploitation** 💻  
 
 ---
 ## 📂 Documentation
@@ -61,4 +64,4 @@ This project is inspired by **Grand Collins' Homelab Guide** and is expanded wit
 
 🌟 **Star this repo** if you find it useful! 🔥
 
-🔗 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/YourProfile) 
+🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/cyberamanx/) 
