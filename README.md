@@ -2,31 +2,21 @@
 
 ![Homelab](https://upload.wikimedia.org/wikipedia/commons/6/66/Network_Diagram.png)
 
-This project is inspired by Grand Collins and aims to create an **enterprise-level cybersecurity homelab** for **offensive and defensive security** training. The setup consists of various virtual machines and security tools to simulate real-world IT environments.
-
 ## 🚀 Project Overview
 
-This homelab helps in understanding key security concepts by setting up an Active Directory (AD) environment with **Windows Server 2025, Windows 11 Enterprise, and Linux distributions** connected via NAT + Bridge networking.
+This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.
 
 ---
-## 📌 Network Topology
-```
-+-----------------+          +-----------------+
-| Windows 11 Ent |          | Kali Linux     |
-| Workstation    |  <-----> | (Attack Box)   |
-+-----------------+          +-----------------+
-          |                        |
-          |                        |
-+-----------------+          +-----------------+
-| Windows Server |          | Security Onion |
-| 2025 (AD, DNS) |          | (SIEM)         |
-+-----------------+          +-----------------+
-          |
-          |
-+-----------------+
-| pfSense Firewall|
-| (NAT & Bridge)  |
-+-----------------+
+## 🏗️ Network Topology
+
+```yaml
+- Windows Server 2025 (Active Directory, DNS, DHCP)
+- Windows 11 Enterprise (Domain-Joined Client)
+- Ubuntu Client (Domain-Joined)
+- Kali Linux (Penetration Testing)
+- Security Onion (Network Monitoring & SIEM)
+- pfSense (Firewall & VPN Gateway)
+- Wazuh (Host-Based Intrusion Detection System)
 ```
 
 ---
@@ -43,15 +33,6 @@ This homelab helps in understanding key security concepts by setting up an Activ
 ✅ **OpenVPN Setup for Secure Remote Access** 🔑  
 ✅ **Exploring Threat Actor Behavior** 🎭  
 
----
-## 📸 Screenshots
-| Tool | Screenshot |
-|------|-----------|
-| **Windows Server 2025 AD** | ![Windows AD](https://via.placeholder.com/300x200?text=Windows+AD) |
-| **pfSense Firewall** | ![pfSense](https://via.placeholder.com/300x200?text=pfSense) |
-| **Security Onion** | ![Security Onion](https://via.placeholder.com/300x200?text=Security+Onion) |
-| **Wazuh SIEM** | ![Wazuh](https://via.placeholder.com/300x200?text=Wazuh) |
-| **Kali Linux Attack Box** | ![Kali](https://via.placeholder.com/300x200?text=Kali+Linux) |
 
 ---
 ## 🎓 Learning Outcomes
@@ -76,3 +57,5 @@ This project is inspired by **Grand Collins' Homelab Guide** and is expanded wit
 💡 Feel free to fork, modify, and enhance this project. Contributions are welcome!
 
 🌟 **Star this repo** if you find it useful! 🔥
+
+🔗 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/YourProfile) 
