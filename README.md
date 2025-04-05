@@ -9,9 +9,9 @@
 This project focuses on the development of a cybersecurity homelab by integrating various procedures, configurations, and technologies. Its primary objective is to illustrate how different components work together to simulate real-world IT environments on a small scale. The ultimate goal is to enhance understanding of the various security elements that interact to safeguard individuals and organizations in today's digital age.
 
 ---
-## 🏗️ Network Topology
+## 🏗️ Technology & Tools
 
-```yaml
+
 - Windows Server 2025 (Active Directory, DNS, DHCP)
 - Windows 11 Enterprise (Domain-Joined Client)
 - Ubuntu Client (Domain-Joined)
@@ -19,7 +19,7 @@ This project focuses on the development of a cybersecurity homelab by integratin
 - Security Onion (Network Monitoring & SIEM)
 - pfSense (Firewall & VPN Gateway)
 - Wazuh (Host-Based Intrusion Detection System)
-```
+
 
 ---
 ## 🔧 Performed Tasks
